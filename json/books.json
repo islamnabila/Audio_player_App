@@ -1,0 +1,49 @@
+[
+  {
+    "rating": "4.5",
+    "title":"SMC",
+    "text":"Martin Hyatt",
+    "img": "assets/images/book0.jpg"
+
+
+  },
+  {
+    "rating": "4.5",
+    "title":"THE WATER CURE",
+    "text":"Martin Hyatt",
+    "img": "assets/images/book1.jpg"
+
+
+  },
+  {
+    "rating": "4.5",
+    "title":"DAUGHTER OF MEN",
+    "text":"Hazard Bin",
+    "img": "assets/images/book2.jpg"
+
+  },
+  {
+    "rating": "4.5",
+    "title":"Day Remember",
+    "text":"Nicholos",
+    "img": "assets/images/book3.jpg"
+
+
+  },
+  {
+    "rating": "4.5",
+    "title": "FOLLOW ME TO GROUND",
+    "text": "Paris",
+    "img": "assets/images/book4.jpeg"
+  },
+
+  {
+    "rating": "4.5",
+    "title":"EARNEST HEMINGWAY",
+    "text":"Nicholos",
+    "img": "assets/images/book5.jpg"
+
+
+  }
+]
+
